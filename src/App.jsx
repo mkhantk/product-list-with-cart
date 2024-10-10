@@ -281,12 +281,12 @@ function App() {
 			{confirm && (
 				<div className="z-[990] w-full h-full absolute inset-0 bg-black opacity-50"></div>
 			)}
-			<div class="attribution">
+			<div className="text-sm text-center m-auto">
 				Challenge by
 				<a href="https://www.frontendmentor.io?ref=challenge">
 					Frontend Mentor
 				</a>
-				. Coded by <a href="#">Your Name Here</a>.
+				. Coded by <a href="#">Min Khant Kyaw</a>.
 			</div>
 		</div>
 	);
